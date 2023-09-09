@@ -1,0 +1,4 @@
+MOODP
+MOODP,TP,Mood
+TP,T,VP
+VP,V

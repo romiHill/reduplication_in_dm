@@ -1,0 +1,6 @@
+TP
+TP,T,AspP
+AspP,RecipP,Asp
+RecipP,VoiceP,Recip
+VoiceP,VP,Voice
+VP,V

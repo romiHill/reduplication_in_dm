@@ -1,0 +1,5 @@
+T,inf,ku
+Recip,,an
+Voice,Appl,il
+Asp,,a
+V,,lim

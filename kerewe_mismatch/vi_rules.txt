@@ -1,0 +1,5 @@
+T,3sg,a
+T,1sg,n
+Mood,perf,ile
+V,,ful
+V,,lol

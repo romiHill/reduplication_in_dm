@@ -1,0 +1,10 @@
+T,1sg,ngi
+T,2sg,u
+T,2pl,ni
+T,1pl,si
+V,,akh
+V,,fund
+V,,sebenz
+v,,a
+MOOD,subjunctive,e
+MOOD,indicative,

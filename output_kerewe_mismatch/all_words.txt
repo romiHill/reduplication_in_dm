@@ -1,0 +1,9 @@
+0. afuzile
+1. alozile
+2. nfuzile
+3. ndozile
+--- reduplicated words ---
+4. afulafuzile
+5. alolalozile
+6. nfulafuzile
+7. ndolalozile
